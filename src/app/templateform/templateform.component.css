@@ -1,0 +1,7 @@
+.box{
+    margin: 0 auto;
+    margin-top: 25px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid darkblue;
+}

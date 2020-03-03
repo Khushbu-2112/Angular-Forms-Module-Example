@@ -1,0 +1,33 @@
+h2{
+    color:white;
+    text-align: center;
+    background-color: darkblue;
+    padding: 10px;                        
+    border-radius:5px;
+}
+
+a{
+    color: rgb(148, 146, 146);
+    margin:10%;
+}
+
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
+
+.active{
+    border-bottom: 1px solid darkblue;
+    color: darkblue;
+}
+
+.cen{
+    text-align: center;
+    margin-top: 3%;
+}
+
+p{
+    width: 80%;
+    margin: 0 auto;
+
+}
